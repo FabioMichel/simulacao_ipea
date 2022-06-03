@@ -6,6 +6,6 @@ Em Seguida, realizei a análise de dados pertinentes ao formulário no scrpt Ipe
 
 Passo a passo: 
 
-1º Rodar o script Ipea.R;
+1º Rodar o script Ipea.R sobre o arquivo "simulacao_ipea.csv";
 
-2º Rodar o script Ipea2.R.
+2º Rodar o script Ipea2.R sobre o arquivo criado "simulacao_ipea2.csv".
